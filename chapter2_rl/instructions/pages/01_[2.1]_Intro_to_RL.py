@@ -1290,7 +1290,7 @@ Importance: 🟠🟠🟠⚪⚪
 You should spend up to 15-30 minutes on this exercise.
 ```
 
-The `policy_eval_numerical` function takes in a deterministic policy $\pi$, and transition and reward matrices $T$ and $R$ (stored as `env.T` and `env.R`), and computes the value function $V_\pi$ using the Bellman equation as an update rule. It keeps iterating until it reaches `max_iterations`, or the resut stabilizes - which ever comes first.
+The `policy_eval_numerical` function takes in a deterministic policy $\pi$, and transition and reward matrices $T$ and $R$ (stored as `env.T` and `env.R`), and computes the value function $V_\pi$ using the Bellman equation as an update rule. It keeps iterating until it reaches `max_iterations`, or the result stabilizes - which ever comes first.
 
 
 ```python
