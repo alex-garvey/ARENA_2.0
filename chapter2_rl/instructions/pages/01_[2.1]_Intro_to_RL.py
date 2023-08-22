@@ -810,7 +810,7 @@ of how valuable each state is in a large lookup table.
 Don't worry about absorbing every detail, we will repeat a lot of the details here.
 Don't worry too much about the maths, we will also cover that here.
 
-- [Sutton and Barto](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
+- [Sutton and Barto](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)
 - Chapter 3, Sections 3.1, 3.2, 3.3, 3.5, 3.6
 - Chapter 4, Sections 4.1, 4.2, 4.3, 4.4
 
